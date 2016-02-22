@@ -1,0 +1,15 @@
+{
+  "name": "calendar.widget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "dependencies": {
+    "moment": "^2.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Hilscher <mail-npm@xinitrc.de> (http://xinitrc.de/)",
+  "license": "ISC"
+}
